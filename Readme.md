@@ -2,4 +2,4 @@
 ### to this book on YouTube: 
 ### https://youtube.com/playlist?list=PL8L1ymgo16MGaiEMjOj7-xCouGAUSUVMg&si=UDoESHClmQASjKDK
 
-![]()
+![](https://github.com/mohammedhemed77/PRML-Book-materials/blob/main/images%20(7).jpeg)
